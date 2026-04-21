@@ -1,4 +1,4 @@
-##Aps-google-colab
+## Aps-google-colab
 This repository contains lab assignment questions and their corresponding solutions for the Algorithms and Problem Solving course, implemented and executed using Google Colab as instructed.
 
 All files in this repository are prepared strictly according to the lab requirements provided by the course instructor and are intended only for academic evaluation.
