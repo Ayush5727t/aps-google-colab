@@ -1,4 +1,24 @@
 ## Aps-google-colab
+
+## 📑 Lab Index
+
+
+Below is an index of all lab notebooks included in this repository:
+
+| Lab Number | Notebook Name | Date         | Summary |
+|-----------:|:-----------------------------------------------|:------------:|:------------------------------------------------------------------------------------------------------------------------------------------|
+| Lab 1      | [Lab_1_AlgorithmsBasics.ipynb](Lab_1_AlgorithmsBasics.ipynb) | 2026-01-13 | Introduction to algorithms, definitions, and basic algorithmic concepts. |
+| Lab 2      | [Lab_2_AlgorithmsBasics.ipynb](Lab_2_AlgorithmsBasics.ipynb) | 2026-01-26 | Recursion, time complexity, and array/list manipulation exercises. |
+| Lab 3      | [Lab_3_Growth_of_function.ipynb](Lab_3_Growth_of_function.ipynb) | 2026-02-01 | Explores growth of functions and time complexity classes (O(1), O(n), O(log n), etc.). |
+| Lab 4      | [lab_4.ipynb](lab_4.ipynb) | 2026-02-16 | Linear search implementation, time measurement, and complexity analysis. |
+| Lab 5      | [Lab_5.ipynb](Lab_5.ipynb) | 2026-02-23 | Divide and conquer: selection sort algorithm and its analysis. |
+| Lab 6      | [Lab_6.ipynb](Lab_6.ipynb) | 2026-03-22 | Divide and conquer: counting sort algorithm and its analysis. |
+| Lab 7      | [Lab_7.ipynb](Lab_7.ipynb) | 2026-03-22 | Greedy algorithms: Fractional Knapsack Problem and its implementation. |
+| Lab 8      | [Lab_8.ipynb](Lab_8.ipynb) | 2026-04-08 | Minimum Cost Spanning Tree: Prim's algorithm and graph representation. |
+| Lab 9      | [Lab_9.ipynb](Lab_9.ipynb) | 2026-04-15 | Dijkstra's algorithm for shortest path in weighted graphs. |
+| Lab 10     | [Lab_10.ipynb](Lab_10.ipynb) | 2026-04-22 | Warshall's algorithm for transitive closure and reachability in graphs. |
+| Lab 11     | [Lab_11.ipynb](Lab_11.ipynb) | 2026-04-22 | Travelling Salesman Problem using dynamic programming and bit masking. |
+
 This repository contains lab assignment questions and their corresponding solutions for the Algorithms and Problem Solving course, implemented and executed using Google Colab as instructed.
 
 All files in this repository are prepared strictly according to the lab requirements provided by the course instructor and are intended only for academic evaluation.
