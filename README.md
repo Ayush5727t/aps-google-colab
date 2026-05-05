@@ -81,5 +81,3 @@ Course: Algorithms and Problem Solving
 Submission Mode: Google Colab / GitHub Repository
 
 Purpose: Internal Lab Evaluation
-
-Last updated: May 5, 2026
