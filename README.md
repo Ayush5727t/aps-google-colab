@@ -18,6 +18,7 @@ Below is an index of all lab notebooks included in this repository:
 | Lab 9      | [Lab_9.ipynb](Lab_9.ipynb) | 2026-04-15 | Dijkstra's algorithm for shortest path in weighted graphs. |
 | Lab 10     | [Lab_10.ipynb](Lab_10.ipynb) | 2026-04-22 | Warshall's algorithm for transitive closure and reachability in graphs. |
 | Lab 11     | [Lab_11.ipynb](Lab_11.ipynb) | 2026-04-22 | Travelling Salesman Problem using dynamic programming and bit masking. |
+| Lab 12     | [Lab_12.ipynb](Lab_12.ipynb) | 2026-04-29 | Matrix Chain Multiplication using dynamic programming and table filling. |
 
 This repository contains lab assignment questions and their corresponding solutions for the Algorithms and Problem Solving course, implemented and executed using Google Colab as instructed.
 
@@ -80,3 +81,5 @@ Course: Algorithms and Problem Solving
 Submission Mode: Google Colab / GitHub Repository
 
 Purpose: Internal Lab Evaluation
+
+Last updated: May 5, 2026
